@@ -1,5 +1,5 @@
 # First Commercial Website
-Website was commissioned by a carpentry company.
+Website was commissioned by a carpentry company. \
 Available under link:   **https://meblekraft.com.pl/**
 
 ## Table of Contents
@@ -26,6 +26,6 @@ This is my first commercial project in which I learned to work with the client a
 Continuously support and development of the website in cooperation with the client.
 
 ## Contact
-https://github.com/FastRabbitON
+https://github.com/FastRabbitON \
 fastrabbiton@gmail.com
 
