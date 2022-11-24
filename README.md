@@ -7,6 +7,7 @@ Available under link:   **https://meblekraft.com.pl/**
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Change Log](#change-log)
 * [Project Status](#project-status)
 * [Contact](#contact)
 
@@ -21,6 +22,12 @@ This is my first commercial project in which I learned to work with the client a
 ## Features
 - Image gallery
 - Mobile version
+
+## Change Log
+- 17-10-2022: Host first version;
+- 23-10-2022: Add mobile version;
+- 10-11-2022: Image gallery optimalization;
+- 20-11-2022: Layout change;
 
 ## Project Status
 Continuously support and development of the website in cooperation with the client.
