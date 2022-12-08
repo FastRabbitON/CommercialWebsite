@@ -33,6 +33,8 @@ This is my first commercial project in which I learned to work with the client a
 Continuously support and development of the website in cooperation with the client.
 
 ## Contact
+https://srv49151.seohost.com.pl \
 https://github.com/FastRabbitON \
-fastrabbiton@gmail.com
+fastrabbiton@gmail.com \
+
 
