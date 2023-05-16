@@ -28,6 +28,7 @@ This is my first commercial project in which I learned to work with the client a
 - 23-10-2022: Add mobile version;
 - 10-11-2022: Image gallery optimalization;
 - 20-11-2022: Layout change;
+- 10-05-2023: Complete redesign and rewrite of the site in React;
 
 ## Project Status
 Continuously support and development of the website in cooperation with the client.
