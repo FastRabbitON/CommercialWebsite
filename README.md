@@ -20,7 +20,7 @@ This is my first commercial project in which I learned to work with the client a
 - HTML
 - CSS
 - JavaScript
--React
+- React
 
 ## Features
 - Image gallery
