@@ -14,10 +14,13 @@ Available under link:   **https://meblekraft.com.pl/**
 ## General Information
 This is my first commercial project in which I learned to work with the client and adapt to his expectations and requirements. Moreover, while creating this project, I learned how to host finished websites. The problem I had to deal with was adapting the website to the mobile version running on any web browser.
 
+![Alt text](https://github.com/FastRabbitON/FastRabbitON/blob/main/GifKraft.gif)
+
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Features
 - Image gallery
