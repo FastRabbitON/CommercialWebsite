@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import React, { useState } from "react";
-import "./NavBarMainStyle.css"
+import "./Styles/NavBarMain.css"
 
 const NavBarMain = () => {
 
@@ -12,10 +12,8 @@ const NavBarMain = () => {
         setIsMobileOpen(!isMobileOpen);
     }
 
-
-
     return (
-        <div>
+        <nav>
 
             <div className="MainBarContainer">
 
@@ -37,8 +35,6 @@ const NavBarMain = () => {
 
             </div>
 
-
-
             <div className={`BurgerBtn ${isMobileOpen ? "on" : ""}`}
                 onClick={() => ChangeMobileOpen()}>
 
@@ -47,10 +43,6 @@ const NavBarMain = () => {
                 <span ></span>
 
             </div>
-
-
-
-
 
             <div className={`MobileMenu ${isMobileOpen ? "on" : ""}`}>
                 <div className="MobileMenuContent">
@@ -61,10 +53,7 @@ const NavBarMain = () => {
 
             </div>
 
-
-
-
-        </div>
+        </nav>
     );
 };
 
